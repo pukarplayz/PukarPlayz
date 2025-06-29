@@ -36,23 +36,23 @@ I’m a self-taught full-stack developer specializing in building custom **Minec
 ## 📁 Major Projects
 
 ### 💻 [BerryMC](https://pukarplayz.carrd.co)
-A detailed Minecraft Network with PvP, Lifesteal, BedWars, economy features (shops, banks), and high-level configuration systems.  
+A detailed Minecraft Network with PvP, Lifesteal, BedWars, economy features (shops, banks), and high-level configuration systems.  \n
 **Status:** ❌ Closed – Showcased in Resume
 
 ### 🎨 [Sponcy](https://sponcy.in/)
-Sponsership Agency That Connecting creators and brands to form authentic partnerships that drive growth and engagement in the digital landscape.
+Sponsership Agency That Connecting creators and brands to form authentic partnerships that drive growth and engagement in the digital landscape.\n
 **Status:** ✅ **Operational**(2024-2025)
 
 ### 🎨 [KolaEdit](https://kolaedit.com/)
-A Professional video editing services that elevate your content and captivate your audience. From raw footage to cinematic masterpieces.
+A Professional video editing services that elevate your content and captivate your audience. From raw footage to cinematic masterpieces.\n
 **Status:** ✅ **Operational**(2024-2025)
 
 ### 🎐 [Discord Bots](https://sterixbot.xyz/)
-Created Automated Discord Bots With Custom Commands, Custom events and More..!
+Created Automated Discord Bots With Custom Commands, Custom events and More..!\n
 **Status:** ✅ **Operational**(2024-2025)
 
 ### 🎨 [Solovent](https://discord.gg/E5j3WvtdxS)
-Subscription-based creative agency for thumbnails, video editing, and bot/server development. Built with a full Discord-based workflow and automated backend.  
+Subscription-based creative agency for thumbnails, video editing, and bot/server development. Built with a full Discord-based workflow and automated backend.  \n
 **Status:** ❌ Closed
 
 ### 🤖 [Sterix](https://sterixbot.xyz/)
