@@ -41,12 +41,15 @@ A detailed Minecraft Network with PvP, Lifesteal, BedWars, economy features (sho
 
 ### 🎨 [Sponcy](https://sponcy.in/)
 Sponsership Agency That Connecting creators and brands to form authentic partnerships that drive growth and engagement in the digital landscape.
+**Status:** ✅ **Operational**(2024-2025)
 
 ### 🎨 [KolaEdit](https://kolaedit.com/)
 A Professional video editing services that elevate your content and captivate your audience. From raw footage to cinematic masterpieces.
+**Status:** ✅ **Operational**(2024-2025)
 
 ### 🎐 [Discord Bots](https://sterixbot.xyz/)
 Created Automated Discord Bots With Custom Commands, Custom events and More..!
+**Status:** ✅ **Operational**(2024-2025)
 
 ### 🎨 [Solovent](https://discord.gg/E5j3WvtdxS)
 Subscription-based creative agency for thumbnails, video editing, and bot/server development. Built with a full Discord-based workflow and automated backend.  
