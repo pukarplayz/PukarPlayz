@@ -6,7 +6,7 @@
 
 ## 🧾 About Me
 
-I’m a self-taught full-stack developer specializing in building custom **Minecraft server setups**, powerful **Discord bots**, and smart automation systems. With over **5 years of experience**, I’ve worked on everything from community management tools to advanced modding, backend scripting, and full-featured service panels.
+I’m a self-taught full-stack developer specializing in building custom **Minecraft server setups**, powerful **Discord bots**, and smart automation systems. With over **2 years of experience**, I’ve worked on everything from community management tools to advanced modding, backend scripting, and full-featured service panels.
 
 > “Code with purpose. Build with passion.”
 
@@ -37,11 +37,17 @@ I’m a self-taught full-stack developer specializing in building custom **Minec
 
 ### 💻 [BerryMC](https://pukarplayz.carrd.co)
 A detailed Minecraft Network with PvP, Lifesteal, BedWars, economy features (shops, banks), and high-level configuration systems.  
-**Status:** Closed – Showcased in Resume
+**Status:** ❌ Closed – Showcased in Resume
 
-### 🎨 [Solovent](https://discord.gg/V2FvH3YJSm)
+### 🎨 [Solovent](https://discord.gg/E5j3WvtdxS)
 Subscription-based creative agency for thumbnails, video editing, and bot/server development. Built with a full Discord-based workflow and automated backend.  
-**Status:** Active
+**Status:** ❌ Closed
+
+### 🤖 [Sterix](https://sterixbot.xyz/)
+Sterix - a powerful, all-in-one bot offering premium features for free.  
+Experience advanced moderation, security, and server control without limits.
+
+**Status:** ✅ **Operational**(2024-2025)
 
 ---
 
