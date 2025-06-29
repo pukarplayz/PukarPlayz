@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pukar Adhikari
 
-🎮 **Minecraft & Discord Developer** | 🧠 **Automation Enthusiast** | 💼 **Project Manager**
+**Minecraft & Discord Developer** | **Automation Enthusiast** | **Project Manager**
 
 ---
 
@@ -15,7 +15,7 @@ I’m a self-taught full-stack developer specializing in building custom **Minec
 ## 🔧 Skills & Expertise
 
 - **Languages & Frameworks**
-  - Python, JavaScript (Node.js), Java, Bash
+  - Python, JavaScript (Node.js), C-Program, Database (SQL) , Web Development ( React )
   - Discord.py, sqlite3, MySQL, Flask
   - Skript, YAML, HTML/CSS
 
@@ -39,6 +39,15 @@ I’m a self-taught full-stack developer specializing in building custom **Minec
 A detailed Minecraft Network with PvP, Lifesteal, BedWars, economy features (shops, banks), and high-level configuration systems.  
 **Status:** ❌ Closed – Showcased in Resume
 
+### 🎨 [Sponcy](https://sponcy.in/)
+Sponsership Agency That Connecting creators and brands to form authentic partnerships that drive growth and engagement in the digital landscape.
+
+### 🎨 [KolaEdit](https://kolaedit.com/)
+A Professional video editing services that elevate your content and captivate your audience. From raw footage to cinematic masterpieces.
+
+### 🎐 [Discord Bots](https://sterixbot.xyz/)
+Created Automated Discord Bots With Custom Commands, Custom events and More..!
+
 ### 🎨 [Solovent](https://discord.gg/E5j3WvtdxS)
 Subscription-based creative agency for thumbnails, video editing, and bot/server development. Built with a full Discord-based workflow and automated backend.  
 **Status:** ❌ Closed
@@ -51,6 +60,7 @@ Experience advanced moderation, security, and server control without limits.
 
 ---
 
+
 ## 📫 Contact Me
 
 - 🌐 [Portfolio & Resume](https://pukarplayz.carrd.co)  
@@ -60,7 +70,7 @@ Experience advanced moderation, security, and server control without limits.
 
 ---
 
-## 🧠 Goals
+## Goals
 
 - Learn advanced Python & backend optimization  
 - Build a dev team under **Solovent** brand  
