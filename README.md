@@ -190,5 +190,3 @@ If you want to discuss a project, collaboration, development work, or just want 
 
 </div>
 
-<body> section.
-<meta name="ddosattack-target-verify" content="8826b4e368572e9875db2dba8984e199733c2b6f1315ef7a725d492457fa6028" />
