@@ -131,6 +131,7 @@ It provides powerful server-management functionality while keeping the experienc
 <img src="https://streak-stats.demolab.com?user=pukarplayz&hide_border=true&theme=github-dark-blue" />
 
 </div>
+
 ---
 
 ## Contribution Activity
@@ -140,6 +141,7 @@ It provides powerful server-management functionality while keeping the experienc
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pukarplayz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
+
 ---
 
 ## Portfolio
