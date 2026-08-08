@@ -118,9 +118,9 @@ It provides powerful server-management functionality while keeping the experienc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pukarplayz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=pukarplayz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark" height="180" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarplayz&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarplayz&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" />
 
 </div>
 
@@ -128,20 +128,18 @@ It provides powerful server-management functionality while keeping the experienc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pukarplayz&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=pukarplayz&hide_border=true&theme=github-dark-blue" />
 
 </div>
-
 ---
 
-## Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pukarplayz&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pukarplayz&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
 ---
 
 ## Portfolio
